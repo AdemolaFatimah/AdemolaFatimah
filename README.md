@@ -1,13 +1,15 @@
 ## Hi there 👋, I'm Ademola Fatimah, Frontend Engineer.
 
 
-⚡ Fun fact: I'm an aspiring Frontend Engineer who just started my tech journey few weeks ago. Coming from a non-tech background I bring fresh perspectives to we development <br/><br/> 
-🌱 Technologies I've worked with: HTML, CSS and Javascript <br/><br/>
+⚡ Fun fact: I'm an aspiring Frontend Engineer who just started my tech journey. Passionate about building inclusive and user-friendly web experiences and I enjoy learning how design meets code. <br/><br/> 
+🚀 Currently learning HTML, CSS, JavaScript and React — one project at a time <br/><br/>
 😄 I'm excited to collaborate on open source projects, hackathons, internships and entry-level roles! <br/><br/>
-🔭 I’m currently working on some intermediate and junior challanges on Frontend mentor website and also some personal challenges <br/><br/>
 💼 Job interests: Frontend Engineer <br/><br/>
-📫 How to reach me: ...
+📚 When I’m not coding, I love watching movies and reading. <br/><br/>
 
+### 🌐 Let's Connect!
+[![X (Twitter)](https://img.shields.io/badge/-@Ademola__Fatimah-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ademola_Fatimah)
+[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ademolafatimah1410@gmail.com)
 
 <hr/>
 
