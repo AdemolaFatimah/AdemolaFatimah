@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Ademola Fatimah, Frontend Engineer.
 
 
-⚡ Fun fact: I'm an aspiring Frontend Engineer who just started my tech journey. Passionate about building inclusive and user-friendly web experiences and I enjoy learning how design meets code. <br/><br/> 
-🚀 Currently learning HTML, CSS, JavaScript and React — one project at a time <br/><br/>
+⚡ Fun fact: Frontend Engineer. I'm passionate about building inclusive and user-friendly web experiences and I enjoy learning how design meets code. <br/><br/> 
+🚀 HTML, CSS, JavaScript, React and Tailwind CSS— one project at a time <br/><br/>
 😄 I'm excited to collaborate on open source projects, hackathons, internships and entry-level roles! <br/><br/>
 💼 Job interests: Frontend Engineer <br/><br/>
 📚 When I’m not coding, I love watching movies and reading. <br/><br/>
